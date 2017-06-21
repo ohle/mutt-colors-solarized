@@ -42,6 +42,10 @@ mono  underline     underline
 mono  indicator     reverse
 mono  error         bold
 
+# sidebar --------------------------------------------------------------
+color sidebar_flagged J_red         J_bg
+color sidebar_new     J_blue        J_bg
+
 # index ----------------------------------------------------------------
 
 #color index         red             default         "~D(!~p|~p)"               # deleted
