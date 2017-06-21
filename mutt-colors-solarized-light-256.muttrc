@@ -43,8 +43,8 @@ mono  indicator     reverse
 mono  error         bold
 
 # sidebar --------------------------------------------------------------
-color sidebar_flagged J_red         J_bg
-color sidebar_new     J_blue        J_bg
+color sidebar_new   color33         color233                                    
+color sidebar_flagged          color160        color233                         
 
 # index ----------------------------------------------------------------
 
